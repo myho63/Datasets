@@ -4,4 +4,4 @@ Data structure shown in sheet "Data Structure". Data includes 24 fields, 339 row
 
 Data cleaning process: link
 
-Data analysis - US Mass Shooting 1: Overview Analysis and Root Cause 1966-2019: https://editor.wix.com/html/editor/web/renderer/edit/34fed6db-857a-4004-8379-16bd66d1282d?metaSiteId=5c4c4009-e2c4-47b0-9d78-60483f227113#!/builder/story/11177049-491b-4746-9b0d-dcbac09d1564:5c4c4009-e2c4-47b0-9d78-60483f227113/edit/header//
+Data analysis - US Mass Shooting 1: Overview Analysis and Root Cause 1966-2019: https://myht63.wixsite.com/mydailyinfo/post/us-mass-shooting-1-overview-analysis-and-root-cause-1966-2019 
